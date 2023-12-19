@@ -1,0 +1,56 @@
+
+body {
+    height: fit-content;
+    background-color: #ffffff;
+}
+
+.botão {
+    padding: 10% 30px;
+    cursor: pointer;
+    background-color: #f8c4eb;
+    color: #e60581;
+    position: relative;
+    top: -300px;
+    font-size: 20px;
+    border:none;
+}
+
+.conteiner {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.imagem {
+ 
+    margin: 10%;
+    display: block;
+    pointer-events: none;
+    margin-top: 100px;
+    position: fixed;
+    
+}
+
+.pedido {
+    position: absolute;
+    top: 68%;
+    left: 42%;
+    color: #155793;
+}
+
+footer {
+    text-align: center;
+    color: #e60581;
+    font-size: 20px;
+    position: relative;
+    top: 200px;
+    font-size: 250%;
+}
+.namoro {
+    text-align: center;
+    color: #e60581;
+    font-size: 20px;
+}
